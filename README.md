@@ -1,5 +1,4 @@
-
-
+# mistral-fastapi-chat
 Petit projet de démonstration utilisant **FastAPI** et le SDK Python de **Mistral AI**.  
 Ce projet fait partie de ma candidature pour le stage chez **Mistral AI**.
 
